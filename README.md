@@ -1,6 +1,6 @@
 # HikazuBot
 
-A Discord game bot that that performs managing character sheets, rolling dice, tracking stats, and even generating random encounters or events. It can also help you create a rich storytelling experience by allowing you to set up interactive quests, create NPCs (non-playable characters), and manage inventory systems.
+A Discord game bot that performs managing character sheets, rolling dice, tracking stats, and even generating random encounters or events. It can also help you create a rich storytelling experience by allowing you to set up interactive quests, create NPCs (non-playable characters), and manage inventory systems.
 
 Additionally, this bot can provide moderation tools, such as automoderation, role management, and server administration, ensuring a smooth and enjoyable gaming environment for everyone involved.
 
